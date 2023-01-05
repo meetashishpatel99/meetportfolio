@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meetpatel-code.netlify.app/static/css/main.1b447f2c.css",
+    "main.js": "/meetpatel-code.netlify.app/static/js/main.07bd5e28.js",
+    "static/media/MEE.png": "/meetpatel-code.netlify.app/static/media/MEE.f2ed5f72cb21d7853c94.png",
+    "static/media/CV.pdf": "/meetpatel-code.netlify.app/static/media/CV.5afb9f488425e84a4ea1.pdf",
+    "static/media/about__me.jpg": "/meetpatel-code.netlify.app/static/media/about__me.762c9e1a60bb7ab49e74.jpg",
+    "static/media/Logo.png": "/meetpatel-code.netlify.app/static/media/Logo.0160aa77088ca319d15c.png",
+    "index.html": "/meetpatel-code.netlify.app/index.html",
+    "main.1b447f2c.css.map": "/meetpatel-code.netlify.app/static/css/main.1b447f2c.css.map",
+    "main.07bd5e28.js.map": "/meetpatel-code.netlify.app/static/js/main.07bd5e28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b447f2c.css",
+    "static/js/main.07bd5e28.js"
+  ]
+}
